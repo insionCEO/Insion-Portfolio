@@ -19,10 +19,12 @@ export default async function Home() {
         <div key={profile?._id} className="lg:max-w-2xl max-w-2xl">
           <Slide>
             <h1 className="font-incognito font-semibold tracking-tight text-3xl sm:text-5xl mb-6 lg:leading-[3.7rem] leading-tight lg:min-w-[700px] min-w-full">
-              {profile?.headline ?? "Job Title"}
+              {profile?.headline ??
+                "Full Stack Developer | AI engineer | Trading Expert "}
             </h1>
             <p className="text-base dark:text-zinc-400 text-zinc-600 leading-relaxed">
-              {profile?.shortBio ?? "Short bio description"}
+              {profile?.shortBio ??
+                "I am victoreke, a Full Stack Web & AI Developer specializing in high-per formance applications, AI/ML integration, and automated trading strategies."}
             </p>
           </Slide>
           <Slide delay={0.1}>

@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 const options = {
-  title: "Victor Eke | Software Developer",
+  title: "Serhii Shapovalov | Software Developer",
   description:
     "Victor Eke is a Software Developer and Technical Writer who is passionate about building solutions and contributing to open source communities",
   url: "https://victoreke.com",

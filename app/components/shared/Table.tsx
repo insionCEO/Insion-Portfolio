@@ -4,7 +4,7 @@ export default function Table({ value }: { value: TableValueProps }) {
   const { caption, table } = value;
   const tableContent = table?.rows;
 
-  if (!tableContent || tableContent.length < 1) {
+  if (!table | (tableContent.length < 1)) {
     return <p>Table Data Missing</p>;
   }
 
