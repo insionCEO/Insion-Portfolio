@@ -4,9 +4,9 @@ export default function Table({ value }: { value: TableValueProps }) {
   const { caption, table } = value;
   const tableContent = table?.rows;
 
-  if (!table | (tableContent.length < 1)) {
-    return <p>Table Data Missing</p>;
-  }
+  if (!table || !tableContent || tableContent.length < 1) {
+  return <p>Table Data Missing</p>;
+}
 
   const [tableHeading, ...tableBody] = tableContent.map((t) => t.cells);
 
