@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   description: "Explore projects built by Serhii Shapovalov",
   openGraph: {
     title: "Projects | Serhii Shapovalov",
-    url: "https://victoreke.com/projects",
-    description: "Explore projects built by Victor Eke",
+    url: "https://serhii-shapovalov.vercel.app/projects",
+    description: "Explore projects built by Serhii Shapovalov",
     images:
       "https://res.cloudinary.com/victoreke/image/upload/v1692636087/victoreke/projects.png",
   },

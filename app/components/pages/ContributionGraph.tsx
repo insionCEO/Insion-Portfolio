@@ -27,6 +27,7 @@ export default function ContributionGraph() {
 
   const today = new Date().getFullYear();
   const username = process.env.NEXT_PUBLIC_GITHUB_USERNAME;
+  console.log("GitHub Username:", username);
   const joinYear = Number(process.env.NEXT_PUBLIC_GITHUB_JOIN_YEAR);
   const years = getGitHubYears(joinYear);
 

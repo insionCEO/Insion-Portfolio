@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://victoreke.com"><img src="./public/logo.png" width="60px"></a>
+<a href="https://serhii-shapovalov.vercel.app/"><img src="./public/logo.png" width="60px"></a>
 </div>
 
 <div align="center">
-<h1>victoreke.com</h1>
+<h1>https://serhii-shapovalov.vercel.app/</h1>
 <p>My personal portfolio website</p>
 </div>
 
@@ -30,9 +30,9 @@ Follow this guide to get this site runnning locally:
 ### Clone Repository
 
 ```js
-git clone https://github.com/Evavic44/victoreke.com.git
+git clone https://github.com/insionCEO/Insion-Portfolio.git
 
-cd victoreke.com
+cd Insion-Portfolio
 
 npm install
 ```
@@ -90,9 +90,6 @@ By default the UI will be blank. To start adding data to the site, visit your st
 
 If you expereinced any issues or enquiries, please raise an issue to discuss it.
 
-## Additional Information
-
-Need more guidiance, check out this [tutorial][sanity-guide] that provides a step-by-step guide to setting up Sanity studio for your portfolio site.
 
 ## Build
 
@@ -110,10 +107,5 @@ npm run build
 | [`schemas`](./schemas)                         | Where Sanity Studio gets its content types from |
 | [`sanity.query.ts`](./lib/sanity.query.ts)     | Groq query for Sanity Schema data               |
 
-## License & Usage
-
-This portfolio is MIT-licensed so you are free to use it as an inspiration or you can just copy the whole thing (excluding my personal content of course), I don't really mind. Just make sure you link back to [victoreke.com][site] on the footer section as attribution to the original source.
-
-<!-- Link Refs -->
 
 

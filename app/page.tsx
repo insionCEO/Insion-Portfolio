@@ -24,7 +24,7 @@ export default async function Home() {
             </h1>
             <p className="text-base dark:text-zinc-400 text-zinc-600 leading-relaxed">
               {profile?.shortBio ??
-                "I am victoreke, a Full Stack Web & AI Developer specializing in high-per formance applications, AI/ML integration, and automated trading strategies."}
+                "I am Serhii Shapovalov, a Full Stack Web & AI Developer specializing in high-per formance applications, AI/ML integration, and automated trading strategies."}
             </p>
           </Slide>
           <Slide delay={0.1}>

@@ -13,16 +13,16 @@ import RefLink from "../components/shared/RefLink";
 
 export const metadata: Metadata = {
   title: "About | Serhii Shapovalov",
-  metadataBase: new URL("https://victoreke.com/about"),
+  metadataBase: new URL("https://serhii-shapovalov.vercel.app/about"),
   description:
     "Learn more about my skills, experience and technical background",
   openGraph: {
-    title: "About | victoreke",
-    url: "https://victoreke.com/about",
+    title: "About | Serhii Shapovalov",
+    url: "https://serhii-shapovalov.vercel.app/about",
     description:
       "Learn more about my skills, experience and technical background",
-    images:
-      "https://res.cloudinary.com/victoreke/image/upload/v1692635746/victoreke/og.png",
+    // images:
+    //   "https://res.cloudinary.com/victoreke/image/upload/v1692635746/victoreke/og.png",
   },
 };
 
