@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://serhii-shapovalov.vercel.app/"><img src="./public/logo.png" width="60px"></a>
+<img src="./public/logo.png" width="60px"></a>
 </div>
 
 <div align="center">
