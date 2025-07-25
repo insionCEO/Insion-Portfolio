@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-<h1>https://serhii-shapovalov.vercel.app/</h1>
 <p>My personal portfolio website</p>
 </div>
 
