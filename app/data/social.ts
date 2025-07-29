@@ -107,7 +107,7 @@ export const socialLinks = [
   {
     id: 12,
     name: "Stackoverflow",
-    url: "https://stackoverflow.com/users/14021166/insionCEO",
+    url: "https://stackoverflow.com/users/insionCEO",
     icon: BiLogoStackOverflow,
     status: "social",
   },
